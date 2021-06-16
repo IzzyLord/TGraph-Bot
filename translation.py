@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """<b>Hai {}!!!</b>
 <code>Im Simple Telegraph Uploader Bot😜</code>
-<b>» You Must Join My Updates Channel for using me</b>
+<b>» You Just Join My Updates Channel then use me</b>
 <i>Click Help Button For More Details</i>"""
     HELP_TEXT = """<b>Hey {}!!!,Please Folow these Steps</b>
 ➥ <code>Send any Image, Gif or Video(Mp4 Only) below 5MB.</code>
