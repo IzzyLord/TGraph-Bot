@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @DforDarkAngel
-# @DX_Botz
+# (c) @psycholy99
+# @NekoneProjects
 
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton ,CallbackQuery
