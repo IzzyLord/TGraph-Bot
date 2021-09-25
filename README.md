@@ -10,13 +10,13 @@ Copyright permission under MIT LICENSE
 ```
 
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jijinr/TGraph-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IzzyLord/TGraph-Bot)
 
 
 
 Deploy in your vps
 ```sh
-git clone https://github.com/Jijinr/TGraph
+git clone https://github.com/IzzyLord/TGraph
 cd Telegraph-Uploader-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
